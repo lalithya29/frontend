@@ -1,0 +1,131 @@
+* {
+    font-family: sans-serif;
+}
+
+#myform{
+    box-shadow: 2px 3px 12px black;/*syntax:horiontal  vertical blur colour
+    /*border:5px solid brown;*/
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+   /* background-color: yellow;*/
+    margin-left: 27%;
+    margin-top: 2%;
+    padding: 30px;
+}
+#myform label{
+margin-top:15px;
+margin-button:6px;
+}
+#gender{
+margin-top:10px ;
+margin-bottom: 10px;
+}
+#myform select{
+    padding:9px;
+    border-radius:9px;
+}
+#myform input{
+    padding:10px;
+    border-radius:9px;
+    border:0.6px solid grey;
+}
+#check{
+    display:flex;
+    flex-direction:row;
+}
+#myform button{
+    background-color:blue;
+    color:white;
+    border:none;
+    border-radius:25px;
+    padding:10px;
+    font-size: 15px;
+}
+#myform button:hover{
+    background-color: blue;
+    cursor:pointer;
+    color:black;
+
+}
+#link{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-bottom:15px;
+}
+#forgot label{
+    margin-top:15px;
+    margin-bottom:6px;
+}
+#forgot input{
+    padding:10px;
+    border-radius:9px;
+    border:0.6px solid grey;
+}
+#forgot{
+    box-shadow: 7px 3px 12px black;/*syntax:horiontal  vertical blur colour
+    /*border:5px solid brown;*/
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+   /* background-color: yellow;*/
+    margin-left: 27%;
+    margin-top: 2%;
+    padding: 30px;
+}
+#forgot button{
+    background-color:blue;
+    color:white;
+    border:none;
+    border-radius:25px;
+    padding:10px;
+    font-size: 15px;
+}
+#forgot button:hover{
+    background-color: blue;
+    cursor:pointer;
+    color:black;
+
+}
+#login label{
+    margin-top:15px;
+    margin-bottom:6px;
+}
+#login input{
+    padding:10px;
+    border-radius:9px;
+    border:0.6px solid grey;
+}
+#login{
+    box-shadow: 7px 3px 12px black;/*syntax:horiontal  vertical blur colour
+    /*border:5px solid brown;*/
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+   /* background-color: yellow;*/
+    margin-left: 27%;
+    margin-top: 2%;
+    padding: 30px;
+}
+#login button{
+    background-color:blue;
+    color:white;
+    border:none;
+    border-radius:25px;
+    padding:10px;
+    font-size: 15px;
+}
+#login button:hover{
+    background-color: blue;
+    cursor:pointer;
+    color:black;
+
+}
+
+
+
+
+
+
+
